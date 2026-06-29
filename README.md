@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0503-next-greater-element-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |

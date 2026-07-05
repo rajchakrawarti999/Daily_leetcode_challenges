@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0070-climbing-stairs) |
 | [0556-next-greater-element-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 ## Divide and Conquer
 |  |

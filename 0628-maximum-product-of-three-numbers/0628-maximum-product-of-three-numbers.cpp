@@ -1,31 +1,14 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
+        
         sort(nums.begin(), nums.end());
 
-        int prod1 = 1;
-        int i = nums.size()-1;
-        int count = 3;
+        int n = nums.size();
 
-        while(count!=0){
-            prod1 *= nums[i];
-            i--;
-            count--;
-        }
+        int prod1 = nums[n-1] * nums[n-2] * nums[n-3];
+        int prod2 = nums[0] * nums[1] * nums[n-1];
 
-        int prod2 = 1;
-
-        int j = 0;
-        while(j<2){
-            prod2 *= nums[j];
-            j++;
-        }
-        prod2 *= nums[nums.size()-1];
-
-
-
-        return max(prod2, prod1);
-
-       
+        return max(prod1, prod2);
     }
 };

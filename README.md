@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum

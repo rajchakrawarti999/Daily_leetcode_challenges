@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |

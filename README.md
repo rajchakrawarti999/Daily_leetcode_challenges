@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3925-concatenate-array-with-reverse](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->

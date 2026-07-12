@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0112-path-sum) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3921-score-validator](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3925-concatenate-array-with-reverse) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

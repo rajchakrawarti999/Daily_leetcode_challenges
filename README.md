@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
+| [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
+| [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1768-merge-strings-alternately) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
+| [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |

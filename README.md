@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |

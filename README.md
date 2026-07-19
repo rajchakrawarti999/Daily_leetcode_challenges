@@ -188,10 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0112-path-sum) |
 ## Matrix
 |  |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

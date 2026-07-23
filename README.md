@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |

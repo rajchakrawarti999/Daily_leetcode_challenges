@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0070-climbing-stairs) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0509-fibonacci-number) |

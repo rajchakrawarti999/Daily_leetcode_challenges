@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1572-matrix-diagonal-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer

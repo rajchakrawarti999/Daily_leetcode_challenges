@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1768-merge-strings-alternately) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3921-score-validator](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3921-score-validator) |
 ## Counting
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |

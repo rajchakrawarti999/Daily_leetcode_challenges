@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Interactive
 |  |
@@ -326,8 +332,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0486-predict-the-winner) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
+| [0877-stone-game](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0877-stone-game) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0877-stone-game) |
 ## Radix Sort
 |  |
 | ------- |

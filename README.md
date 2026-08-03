@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0164-maximum-gap](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 ## Game Theory
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 ## Minimax
 |  |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1406-stone-game-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0056-merge-intervals) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0287-find-the-duplicate-number) |

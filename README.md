@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0374-guess-number-higher-or-lower) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0374-guess-number-higher-or-lower) |
 ## Simulation
 |  |
 | ------- |

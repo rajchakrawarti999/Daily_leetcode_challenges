@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1572-matrix-diagonal-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |

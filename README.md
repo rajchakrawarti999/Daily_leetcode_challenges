@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0486-predict-the-winner) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1572-matrix-diagonal-sum) |

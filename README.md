@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0503-next-greater-element-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0374-guess-number-higher-or-lower) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

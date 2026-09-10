@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [0937-reorder-data-in-log-files](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0937-reorder-data-in-log-files) |
+| [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1406-stone-game-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [0937-reorder-data-in-log-files](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0937-reorder-data-in-log-files) |
+| [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Interactive
 |  |
@@ -432,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->

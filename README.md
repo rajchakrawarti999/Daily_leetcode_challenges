@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
 | [0937-reorder-data-in-log-files](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0937-reorder-data-in-log-files) |
+| [0989-add-to-array-form-of-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0989-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0908-smallest-range-i) |
+| [0989-add-to-array-form-of-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3345-smallest-divisible-digit-product-i) |

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0989-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0922-sort-array-by-parity-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0937-reorder-data-in-log-files) |
 | [1122-relative-sort-array](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0374-guess-number-higher-or-lower) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1539-kth-missing-positive-number) |
 ## Greedy

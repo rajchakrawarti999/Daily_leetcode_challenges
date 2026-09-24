@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |

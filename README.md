@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [0877-stone-game](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0877-stone-game) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Memoization

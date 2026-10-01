@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0125-valid-palindrome) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0503-next-greater-element-ii) |
@@ -480,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

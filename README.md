@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0486-predict-the-winner) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0278-first-bad-version) |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

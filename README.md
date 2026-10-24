@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1406-stone-game-iii) |
+| [2409-count-days-spent-together](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |

@@ -1,26 +1,36 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string ans = "";
-        transform(s.begin(), s.end(), s.begin(), ::tolower);
-        int i = 0;
-        while(i<s.size()){
+        int n = s.size();
 
-            if(isalnum(s[i])){
-                ans += s[i];
-            }
-            i++;
+        string ans = "";
+
+        for(auto &c : s){
+
+            c = tolower(c);
         }
 
-        i = 0;
+        for(auto x : s){
+
+            if(isalnum(x)){
+                ans += x;
+            }
+        }
+
+        int i =0;
         int j = ans.size()-1;
 
-        while(i < j){
+        while(i<=j){
 
-            if(ans[i]!=ans[j]) return false;
-            i++;
-            j--;
+            if(ans[i]==ans[j]) {
+                i++;
+                j--;
+            }
+            else{
+                return false;
+            }
         }
+
         return true;
     }
 };

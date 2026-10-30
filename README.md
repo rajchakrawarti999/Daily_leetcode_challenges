@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0031-next-permutation) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0020-valid-parentheses) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0062-unique-paths) |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0704-binary-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0825-friends-of-appropriate-ages) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

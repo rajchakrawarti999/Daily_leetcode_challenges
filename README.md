@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0112-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/rajchakrawarti999/Daily_leetcode_challenges/tree/master/0386-lexicographical-numbers) |
 ## Manacher
 |  |
 | ------- |
